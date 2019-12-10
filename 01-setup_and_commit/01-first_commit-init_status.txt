@@ -1,0 +1,4 @@
+# Git lesson
+
+- `init`: initialize a git repository at the current working directory
+- `status`: look at the status of the repository

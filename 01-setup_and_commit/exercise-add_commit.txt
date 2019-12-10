@@ -1,0 +1,2 @@
+- `add`: add files to staging area
+- `commit`: commit files from staging area
