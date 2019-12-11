@@ -1,0 +1,6 @@
+First commit showing init and status
+
+When you use commit it will open in your text editor and you can type multiple lines in here for your message
+
+The commented out text below will not show in your message,
+it's just the status to give you some reference.
