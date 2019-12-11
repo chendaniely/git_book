@@ -1,0 +1,6 @@
+- `checkout`: moves `HEAD` around
+  - `checkout <HASH> <FILE>`: reverts <FILE> to the version in <HASH>
+  - `checkout <HASH>: moves `HEAD` to <HASH> and leaves you in detatched HEAD state
+  - `checkout <branch>`: moves `HEAD` to the beginning of <branch>
+- `reset --hard`: throws away all your changes and puts you back at your last commit
+  - `reset --hard <HASH>`: can also be used to put you back at a specific commit

@@ -1,0 +1,4 @@
+  - `diff --staged`: used to diff files that are in the staging area
+- `log`: prints out the commits in reverse chronological order
+  - `log --oneline`: gives us a simplified one line view of the log
+`HEAD`: tells us where we are in our git history
